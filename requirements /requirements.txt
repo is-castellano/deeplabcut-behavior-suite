@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+opencv-python
+PyQt6
+shapely
+openpyxl
